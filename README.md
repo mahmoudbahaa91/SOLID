@@ -5,13 +5,11 @@ Welcome to the repository for SOLD Principles! Here, you'll find information and
 
 ## Table of Contents 📋
 
-- [Introduction to SOLD Principles](#introduction-to-sold-principles)
-- [SOLD Principles Overview](#sold-principles-overview)
-- [Applying SOLD Principles](#applying-sold-principles)
-- [Benefits of SOLD Principles](#benefits-of-sold-principles)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction to SOLD Principles]
+- [SOLD Principles Overview]
+- [Applying SOLD Principles]
+- [Benefits of SOLD Principles]
+
 
 ## Introduction to SOLD Principles 🌟
 
